@@ -26,6 +26,10 @@ All access should have been arranged before. But if one of the tools is not work
 * Edit some text
 * At the bottom click 'commit changes'
 
+### Join Slack ###
+* Navigate to: [Slack](http://ordinams.slack.com/)
+* Register with your @ordina.nl account.
+* Join the channel: **azure-challenge**
 
 **You are ready to go!**   
 [< Go back to Module 1](../../)

@@ -55,7 +55,8 @@ The objective of this lab is to create simple MVC WebApplication and discover 3 
 
 #### Step 4.3 - Deploy from VSTS
 * Check in VSTS if you have a service Endpoint named: *"Azure Challenge Subscription"*
-* From your webapp goto: Setup Continues delivery   
+* From your webapp goto: 'Continues delivery (preview)'
+   * Use GitHub as code repository
 
 **[Instruction Video](https://vimeo.com/205957131)**  
 
@@ -69,6 +70,7 @@ The objective of this lab is to create simple MVC WebApplication and discover 3 
 ### Step 6 - Play around.. ###
 * Create a Dashboard to easily access your resources
 * Share your Dashboard
-* Find out what KUDO is
+* Find out what KUDO is   
 
-
+**All done!**   
+[< Go back to Module 1](../../)

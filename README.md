@@ -8,6 +8,6 @@ Module | Topic | Date | Location | .
 --- | --- | --- | ---  | ---
 1 | **Introduction, Environment Setup & Hello World** | Thursday 2 March | B4.03 | [View](Modules/01)
 2 | **Modern Cloud Apps** | Thursday 6 April  | B4.03 | [View](Modules/02)
-3 | **Authentication, Security & Media Services** | Thursday 4 May  | xxx |  
+3 | **Authentication, Security & Media Services** | Wednesday 3 May  | B4.03 | [View](Modules/03) |  
 4 | **Handeling data**  | Thursday 1 June  | xxx | 
 5 | **Immutable Infrastructure** | Thursday 6 July  | xxx |  

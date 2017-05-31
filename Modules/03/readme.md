@@ -37,7 +37,7 @@ We will provide an overview of Azure AD, and discuss areas for integration with 
 * [Blog](https://blog.siliconvalve.com/2016/07/25/creating-azure-ad-b2c-service-principals-with-powershell/)
 * [Code Sample](https://github.com/AzureADQuickStarts/B2C-GraphAPI-DotNet)
 
-## Lab 3.3 ##
+## Lab 3.3 - Bonus ##
 * Create a custom login & signup screen 
 
 [Full code sample](https://github.com/OrdinaSD/AzureChallenge-Henk-Boelman/tree/Lab_3)

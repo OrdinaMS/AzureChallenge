@@ -70,7 +70,7 @@ The objective of this lab is to create simple MVC WebApplication and discover 3 
 ### Step 6 - Play around.. ###
 * Create a Dashboard to easily access your resources
 * Share your Dashboard
-* Find out what KUDO is   
+* Find out what KUDU is   
 
 **All done!**   
 [< Go back to Module 1](../../)

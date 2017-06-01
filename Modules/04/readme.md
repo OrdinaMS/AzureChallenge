@@ -3,6 +3,7 @@ In this module we are going to add some AI to our social network. We will scan t
 
 ## Pre ##
 * Install: https://www.visualstudio.com/vs/preview/
+* Install: https://marketplace.visualstudio.com/items?itemName=AndrewBHall-MSFT.AzureFunctionToolsforVisualStudio2017
 
 ## Azure Components ##
 * Azure Functions
